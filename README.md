@@ -35,4 +35,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/Jatecky11/Weather-Diary.git
+git clone [https://github.com/Jatecky11/weather-diary.git](https://github.com/Jatecky11/weather-diary.git)
+cd weather-diary
